@@ -1,3 +1,3 @@
-module github.com/23deg/jwt-middleware
+module github.com/dlapianosipos/jwt-middleware
 
 go 1.14
