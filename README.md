@@ -7,8 +7,8 @@ JWT Middleware is a middleware plugin for [Traefik](https://github.com/containou
 Start with command
 ```yaml
 command:
-  - "--experimental.plugins.jwt-middleware.modulename=github.com/23deg/jwt-middleware"
-  - "--experimental.plugins.jwt-middleware.version=v0.1.2"
+  - "--experimental.plugins.jwt-middleware.modulename=github.com/dlapianosipos/jwt-middleware"
+  - "--experimental.plugins.jwt-middleware.version=v0.1.0"
 ```
 
 Activate plugin in your config  
